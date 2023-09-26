@@ -1,11 +1,16 @@
 _repo: Book-of-Needs-of-the-Holy-Orthodox-Church-b-with-an-appendix-containing-offices-for-the-layin__71513
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71513-h/images/cover.jpg
 creator:
   author:
     agent_name: Shann, George Vincent
     gutenberg_agent_id: '56267'
     url: http://www.gutenberg.org/2009/agents/56267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71513#Book-of-Needs-of-the-Holy-Orthodox-Church-b-with-an-appendix-containing-offices-for-the-layin_
 gutenberg_issued: '2023-08-28'
 identifiers:
   gutenberg: '71513'
